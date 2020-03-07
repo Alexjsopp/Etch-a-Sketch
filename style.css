@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#grid {
+  margin: 1rem auto;
+  width: 500px;
+  height: 500px;
+}
+
+.cell-style {
+  border: solid 1px black;
+}
